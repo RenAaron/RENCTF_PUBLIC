@@ -37,7 +37,7 @@ RenCTF was developed using the following technologies:
 - **Firebase**: For front-end hosting and database management.
 - **Angular**: To build the web application's frontend.
 - **Heroku**: For backend/server hosting.
-- **Blender**: For creating web app and matrix GIFs and rendering.
+- **Blender**: For rendering web app and matrix GIFs.
 - **Fusion360**: For designing 3D-printed hardware housing.
 
 ## Installation
