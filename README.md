@@ -89,10 +89,9 @@ RenCTF was developed using the following technologies:
 1. Visit the live web app: [RenCTF Web App](https://ren-ctf-webapp.web.app/).
 2. Log in and start solving CTF challenges on third-party platforms.
 3. Submit flags to advance on the leaderboard.
-
-## Acknowledgements
-This work is supported by National Science Foundation grant 2245573 
 4. View your progress and game status on the LED matrix within your department.
 
+## Acknowledgements
+This work is supported by National Science Foundation grant 2245573.
 
 ---
